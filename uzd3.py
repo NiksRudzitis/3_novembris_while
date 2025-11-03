@@ -1,3 +1,4 @@
+# summē skaitļus kas dalās ar 3 un nav lielāki par 100
 summa = 0
 x = 1
 while x <= 100:
@@ -5,4 +6,3 @@ while x <= 100:
         summa += x
     x += 1
 print("Summa:", summa)
-``
